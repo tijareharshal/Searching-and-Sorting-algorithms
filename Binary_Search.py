@@ -30,3 +30,7 @@ if __name__ == '__main__':
 
     b1 = BinarySearch(sorted_arr, to_find)
     b1.find_element()
+    
+    # >> Original array:  [22, 28, 42, 45, 52, 56, 68, 70, 74, 93]
+    # >> Element to find:  45
+    # >> Element 45 found at index 3.
